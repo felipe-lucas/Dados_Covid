@@ -1,2 +1,3 @@
 # Dados_Covid
-Análise realizando Python para verificação de forma visual dos dados de Covid no Brasil
+Análise dos dados de Covid no Brasil utilizando Python para verificação de forma visual.
+Neste projeto foram utilizados as bibliotecas pandas, plotly e streamlit.
